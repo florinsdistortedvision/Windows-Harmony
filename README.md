@@ -1,35 +1,24 @@
 # Project-Harmony
 Project Harmony checklist:
 
-### 1. Basic:
-- [ ] Aero theme
-- [ ] Taskbar
-- [ ] Start Menu
-- [ ] File Explorer
-- [ ] Wallpapers
-- [ ] Sounds
-- [ ] Icons
-- [ ] Gadgets
-- [ ] User Icons
+### 1. Visual:
+- [X] Theme
+- [X] Taskbar
+- [X] Start Menu
+- [X] File Explorer
+- [X] Wallpapers
+- [X] Sounds
+- [X] Icons
+- [X] Gadgets
+- [X] User Icons
+- [X] Cursor
+- [X] Network Taskbar indicator
+- [X] Control Panel/Personalization Menu
+- [X] Branding
 
-### 2. Advanced:
-- [ ] Win 7 looking sound mixer
-- [ ] Win 7 Network view
-- [ ] Control Panel/Personalization Menu
-
-### 3. Built-in Apps:
-- [ ] Internet Explorer 7
-- [ ] Microsoft Games (Chess, FreeCell, Hearts, inkball, Mahjong, Mineswepper, Purble Place, Solitare, SpiderSolitare)
-- [ ] Movie Maker
-- [ ] Windows Calendar, Collaboration, Journal, Mail, Media Player 11, Photo Gallery
-- [ ] Windows Live Messanger
-
-### 4. Internet Related/Patched Clients:
-- [ ] Old Youtube
-- [ ] Old Google
-- [ ] Spacehey
-- [ ] Discord?
-
-### x. Low priority:
-- [ ] Boot animation
-- [ ] Setup skin
+### 2. Built-in Apps:
+- [X] Internet Explorer 7 theme
+- [X] Microsoft Games
+- [X] Movie Maker
+- [X] Windows Media Player 11, Photo Gallery
+- [X] Windows Live Messenger

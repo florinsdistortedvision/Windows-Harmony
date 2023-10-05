@@ -33,9 +33,11 @@
 
 ## Download link:
 
-- Because the pack is around 700MB, I can't really use GitHub's releases feature, so I uploaded it to archive.org. If you get slow DL speeds use a downloader manager.
-- [Archive.org](https://archive.org/details/windows-harmony-pack-for-ltsc-2019/)
-- Also the archive.org readme hasn't been updated cuz it doesn't let me for some reason, always fails.
+- [Rinfox (IE7,8 theme) has been removed from the zip because of new developments and can be found here](https://github.com/florinsdistortedvision/rinfox_updated)
+- Pack has been split into 2 parts to help aid the download speeds:
+  * Theme pack
+  * Optional Applications (Vista's Photo Viewer, Paint, Windows Media Player 11, Classic Sticky Notes, skinned WinFlip/Flip3D, Windows Movie Maker 6 and Windows Media Center 8.8.5.)
+- [Download the pack on archive.org](https://archive.org/details/windows-harmony-pack-for-ltsc-2019/)
 
 ## Credits:
 
